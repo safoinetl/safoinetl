@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Safoine Touil</h1>
 <h3 align="center">A passionate Full Stack Developer from Tunisia</h3>
 <img
-  src="[https://tenor.com/fr/view/programming-crazy-hard-developer-cramming-gif-7866345](https://gifer.com/en/11rf)"
+  src="https://tenor.com/fr/view/programming-crazy-hard-developer-cramming-gif-7866345"
   align="right"
   alt="coding"
   width="400"
